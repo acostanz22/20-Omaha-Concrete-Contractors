@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-label="Omaha Concrete Contractors">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8, 5)">
+      <path d="M14 78 L106 78 L96 98 L24 98 Z" fill="#999"/><path d="M14 78 L24 58 L96 58 L106 78 Z" fill="#16a34a"/><line x1="24" y1="58" x2="14" y2="78" stroke="#666"/><line x1="96" y1="58" x2="106" y2="78" stroke="#666"/>
+    </g>
+    <line x1="138" y1="18" x2="138" y2="112" stroke="#16a34a" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <g font-family="Arial Black, Helvetica Neue, Arial, sans-serif" text-anchor="start">
+      <text x="150" y="72" font-size="34" font-weight="800" fill="#1f1f1f" letter-spacing="0.8">OMAHA</text>
+      <text x="150" y="108" font-size="15" font-weight="700" fill="#16a34a" letter-spacing="2.8">CONCRETE CONTRACTORS</text>
+    </g>
+  </g>
+</svg>
